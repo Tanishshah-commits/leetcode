@@ -16,9 +16,14 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Tanishshah-commits/leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishshah-commits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishshah-commits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Tanishshah-commits/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
