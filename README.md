@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Tanishshah-commits/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanishshah-commits/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -42,9 +43,14 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Tanishshah-commits/leetcode/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
