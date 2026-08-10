@@ -25,6 +25,7 @@
 | [0035-search-insert-position](https://github.com/Tanishshah-commits/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Tanishshah-commits/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishshah-commits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0877-stone-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0877-stone-game) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tanishshah-commits/leetcode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -74,4 +76,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tanishshah-commits/leetcode/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
