@@ -30,6 +30,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0877-stone-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Game Theory
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
 |  |
 | ------- |
