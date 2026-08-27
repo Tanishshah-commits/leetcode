@@ -99,4 +99,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Tanishshah-commits/leetcode/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Tanishshah-commits/leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
