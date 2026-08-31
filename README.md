@@ -19,6 +19,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanishshah-commits/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -32,6 +33,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0877-stone-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishshah-commits/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
