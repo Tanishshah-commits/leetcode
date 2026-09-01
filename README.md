@@ -6,6 +6,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Tanishshah-commits/leetcode/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0877-stone-game) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Tanishshah-commits/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishshah-commits/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanishshah-commits/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
@@ -15,6 +16,7 @@
 | [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Tanishshah-commits/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanishshah-commits/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
