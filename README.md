@@ -18,6 +18,7 @@
 | [0344-reverse-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Tanishshah-commits/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2103-rings-and-rods](https://github.com/Tanishshah-commits/leetcode/tree/master/2103-rings-and-rods) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanishshah-commits/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -79,6 +80,7 @@
 | [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2103-rings-and-rods](https://github.com/Tanishshah-commits/leetcode/tree/master/2103-rings-and-rods) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishshah-commits/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
