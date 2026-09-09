@@ -26,6 +26,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanishshah-commits/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
@@ -37,6 +38,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishshah-commits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanishshah-commits/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0877-stone-game) |
@@ -66,6 +68,7 @@
 | [0125-valid-palindrome](https://github.com/Tanishshah-commits/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -74,6 +77,7 @@
 | [0075-sort-colors](https://github.com/Tanishshah-commits/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Game Theory
@@ -127,4 +131,12 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Tanishshah-commits/leetcode/tree/master/0476-number-complement) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
