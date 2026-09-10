@@ -19,6 +19,7 @@
 | [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanishshah-commits/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Tanishshah-commits/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2103-rings-and-rods](https://github.com/Tanishshah-commits/leetcode/tree/master/2103-rings-and-rods) |
@@ -70,6 +71,7 @@
 | [0125-valid-palindrome](https://github.com/Tanishshah-commits/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -94,6 +96,7 @@
 | [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanishshah-commits/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/Tanishshah-commits/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2103-rings-and-rods](https://github.com/Tanishshah-commits/leetcode/tree/master/2103-rings-and-rods) |
@@ -114,6 +117,7 @@
 | [0076-minimum-window-substring](https://github.com/Tanishshah-commits/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanishshah-commits/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanishshah-commits/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Tanishshah-commits/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishshah-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
