@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishshah-commits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Tanishshah-commits/leetcode/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -149,6 +150,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Tanishshah-commits/leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Tanishshah-commits/leetcode/tree/master/0476-number-complement) |
 ## Stack
 |  |
