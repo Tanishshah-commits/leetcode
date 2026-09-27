@@ -11,6 +11,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Tanishshah-commits/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishshah-commits/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanishshah-commits/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3270-find-the-key-of-the-numbers](https://github.com/Tanishshah-commits/leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanishshah-commits/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tanishshah-commits/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
