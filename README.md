@@ -54,6 +54,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanishshah-commits/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanishshah-commits/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Tanishshah-commits/leetcode/tree/master/0739-daily-temperatures) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Tanishshah-commits/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0877-stone-game) |
@@ -171,11 +172,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Tanishshah-commits/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Tanishshah-commits/leetcode/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
