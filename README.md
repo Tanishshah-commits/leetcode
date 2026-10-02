@@ -28,6 +28,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0844-backspace-string-compare](https://github.com/Tanishshah-commits/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishshah-commits/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Tanishshah-commits/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -95,6 +96,7 @@
 | [0567-permutation-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Tanishshah-commits/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0844-backspace-string-compare](https://github.com/Tanishshah-commits/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -173,6 +175,7 @@
 | [0020-valid-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Tanishshah-commits/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Tanishshah-commits/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -199,4 +202,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Tanishshah-commits/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
