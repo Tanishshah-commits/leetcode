@@ -19,6 +19,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishshah-commits/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Tanishshah-commits/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Tanishshah-commits/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Tanishshah-commits/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
@@ -168,6 +169,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
