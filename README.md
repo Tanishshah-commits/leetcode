@@ -55,6 +55,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanishshah-commits/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanishshah-commits/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Tanishshah-commits/leetcode/tree/master/0739-daily-temperatures) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Tanishshah-commits/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -175,6 +176,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanishshah-commits/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Tanishshah-commits/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Tanishshah-commits/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -207,5 +209,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Tanishshah-commits/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
