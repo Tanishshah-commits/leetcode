@@ -29,6 +29,7 @@
 | [0567-permutation-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/Tanishshah-commits/leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Tanishshah-commits/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishshah-commits/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -182,6 +183,7 @@
 | [0682-baseball-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Tanishshah-commits/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Tanishshah-commits/leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Tanishshah-commits/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
