@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Tanishshah-commits/leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tanishshah-commits/leetcode/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Tanishshah-commits/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0877-stone-game) |
@@ -56,6 +57,7 @@
 | [0075-sort-colors](https://github.com/Tanishshah-commits/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishshah-commits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishshah-commits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Tanishshah-commits/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -101,6 +103,7 @@
 | [0016-3sum-closest](https://github.com/Tanishshah-commits/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Tanishshah-commits/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Tanishshah-commits/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tanishshah-commits/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishshah-commits/leetcode/tree/master/0349-intersection-of-two-arrays) |
