@@ -29,6 +29,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanishshah-commits/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0806-number-of-lines-to-write-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Tanishshah-commits/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanishshah-commits/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanishshah-commits/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -65,6 +66,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Tanishshah-commits/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Tanishshah-commits/leetcode/tree/master/0739-daily-temperatures) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Tanishshah-commits/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0806-number-of-lines-to-write-string](https://github.com/Tanishshah-commits/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Tanishshah-commits/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Tanishshah-commits/leetcode/tree/master/0904-fruit-into-baskets) |
