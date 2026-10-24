@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tanishshah-commits/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Tanishshah-commits/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tanishshah-commits/leetcode/tree/master/0202-happy-number) |
@@ -54,6 +55,7 @@
 | [0014-longest-common-prefix](https://github.com/Tanishshah-commits/leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Tanishshah-commits/leetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Tanishshah-commits/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Tanishshah-commits/leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Tanishshah-commits/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishshah-commits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -182,6 +184,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tanishshah-commits/leetcode/tree/master/0048-rotate-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishshah-commits/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
