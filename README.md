@@ -56,6 +56,7 @@
 | [0016-3sum-closest](https://github.com/Tanishshah-commits/leetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Tanishshah-commits/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Tanishshah-commits/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Tanishshah-commits/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tanishshah-commits/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishshah-commits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishshah-commits/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Tanishshah-commits/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Tanishshah-commits/leetcode/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Tanishshah-commits/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Tanishshah-commits/leetcode/tree/master/0242-valid-anagram) |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tanishshah-commits/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Tanishshah-commits/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishshah-commits/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
