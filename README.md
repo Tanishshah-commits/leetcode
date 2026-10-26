@@ -54,6 +54,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanishshah-commits/leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Tanishshah-commits/leetcode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Tanishshah-commits/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Tanishshah-commits/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Tanishshah-commits/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Tanishshah-commits/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Tanishshah-commits/leetcode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Tanishshah-commits/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Tanishshah-commits/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Tanishshah-commits/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Tanishshah-commits/leetcode/tree/master/0189-rotate-array) |
